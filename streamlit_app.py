@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 
 st.set_page_config(
-    page_title="YKTI RAWAT",
+    page_title="SHIVAM",
     page_icon="🦂",
     layout="wide",
     initial_sidebar_state="collapsed"
