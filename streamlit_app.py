@@ -437,7 +437,7 @@ def stop_auto():
 # ══════════════════════════════════════════════
 st.markdown("""
 <div class="hdr">
-    <div class="hdr-title">YKTI RAWAT</div>
+    <div class="hdr-title">SHIVAM</div>
     <div class="hdr-sub">PREMIUM E2EE OFFLINE CONVO SYSTEM</div>
 </div>
 """, unsafe_allow_html=True)
